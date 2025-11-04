@@ -5,9 +5,4 @@
 | Quinn | 9 pts |
 | Sasa | 15 pts |
 | Mingkwan | 12 pts |
-| Ronak | grade |
-| Nao | grade |
-| Quinn | grade |
-| Sasa | grade |
-| Mingkwan | grade |
-| Monty | pts |
+| Monty | 12 pts |
